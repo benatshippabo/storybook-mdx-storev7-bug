@@ -2065,7 +2065,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/addon-essentials@npm:^7.0.0-beta.45":
+"@storybook/addon-essentials@npm:7.0.0-beta.45":
   version: 7.0.0-beta.45
   resolution: "@storybook/addon-essentials@npm:7.0.0-beta.45"
   dependencies:
@@ -2101,7 +2101,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/addon-interactions@npm:^7.0.0-beta.45":
+"@storybook/addon-interactions@npm:7.0.0-beta.45":
   version: 7.0.0-beta.45
   resolution: "@storybook/addon-interactions@npm:7.0.0-beta.45"
   dependencies:
@@ -2130,7 +2130,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/addon-links@npm:^7.0.0-beta.45":
+"@storybook/addon-links@npm:7.0.0-beta.45":
   version: 7.0.0-beta.45
   resolution: "@storybook/addon-links@npm:7.0.0-beta.45"
   dependencies:
@@ -2273,7 +2273,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/blocks@npm:7.0.0-beta.45, @storybook/blocks@npm:^7.0.0-beta.45":
+"@storybook/blocks@npm:7.0.0-beta.45":
   version: 7.0.0-beta.45
   resolution: "@storybook/blocks@npm:7.0.0-beta.45"
   dependencies:
@@ -2897,7 +2897,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/react-vite@npm:^7.0.0-beta.45":
+"@storybook/react-vite@npm:7.0.0-beta.45":
   version: 7.0.0-beta.45
   resolution: "@storybook/react-vite@npm:7.0.0-beta.45"
   dependencies:
@@ -2917,7 +2917,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/react-webpack5@npm:^7.0.0-beta.45":
+"@storybook/react-webpack5@npm:7.0.0-beta.45":
   version: 7.0.0-beta.45
   resolution: "@storybook/react-webpack5@npm:7.0.0-beta.45"
   dependencies:
@@ -2938,7 +2938,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/react@npm:7.0.0-beta.45, @storybook/react@npm:^7.0.0-beta.45":
+"@storybook/react@npm:7.0.0-beta.45":
   version: 7.0.0-beta.45
   resolution: "@storybook/react@npm:7.0.0-beta.45"
   dependencies:
@@ -3013,7 +3013,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/testing-library@npm:^0.0.14-next.1":
+"@storybook/testing-library@npm:0.0.14-next.1":
   version: 0.0.14-next.1
   resolution: "@storybook/testing-library@npm:0.0.14-next.1"
   dependencies:
@@ -3600,7 +3600,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vitejs/plugin-react-swc@npm:^3.1.0":
+"@vitejs/plugin-react-swc@npm:3.1.0":
   version: 3.1.0
   resolution: "@vitejs/plugin-react-swc@npm:3.1.0"
   dependencies:
@@ -9338,24 +9338,24 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "storybook-mdx-storev7-bug@workspace:."
   dependencies:
-    "@storybook/addon-essentials": ^7.0.0-beta.45
-    "@storybook/addon-interactions": ^7.0.0-beta.45
-    "@storybook/addon-links": ^7.0.0-beta.45
-    "@storybook/blocks": ^7.0.0-beta.45
-    "@storybook/react": ^7.0.0-beta.45
-    "@storybook/react-vite": ^7.0.0-beta.45
-    "@storybook/react-webpack5": ^7.0.0-beta.45
-    "@storybook/testing-library": ^0.0.14-next.1
-    "@vitejs/plugin-react-swc": ^3.1.0
+    "@storybook/addon-essentials": 7.0.0-beta.45
+    "@storybook/addon-interactions": 7.0.0-beta.45
+    "@storybook/addon-links": 7.0.0-beta.45
+    "@storybook/blocks": 7.0.0-beta.45
+    "@storybook/react": 7.0.0-beta.45
+    "@storybook/react-vite": 7.0.0-beta.45
+    "@storybook/react-webpack5": 7.0.0-beta.45
+    "@storybook/testing-library": 0.0.14-next.1
+    "@vitejs/plugin-react-swc": 3.1.0
     prop-types: ^15.8.1
     react: ^17.0.2
     react-dom: ^17.0.2
-    storybook: ^7.0.0-beta.45
+    storybook: 7.0.0-beta.45
     vite: ^4.1.1
   languageName: unknown
   linkType: soft
 
-"storybook@npm:^7.0.0-beta.45":
+"storybook@npm:7.0.0-beta.45":
   version: 7.0.0-beta.45
   resolution: "storybook@npm:7.0.0-beta.45"
   dependencies:
